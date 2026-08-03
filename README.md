@@ -55,5 +55,4 @@ This project strengthened my understanding of business intelligence, analytics, 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
 
-
-[Watch the interactive demo on LinkedIn] [(https://www.linkedin.com/feed/update/urn:li:activity:7475553157897670656/)]
+[Watch the interactive demo on my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7475553157897670656/)
