@@ -53,7 +53,7 @@ Beyond the findings highlighted above, the dashboard enables deeper insight into
 This project strengthened my understanding of business intelligence, analytics, and dashboard design. I look forward to continuing my learning journey by building more advanced dashboards and analytical solutions. I would greatly appreciate any feedback or suggestions.
 
 ## Dashboard Preview
-![Dashboard](Global Superstore Dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 [Watch the interactive demo on LinkedIn] [(https://www.linkedin.com/feed/update/urn:li:activity:7475553157897670656/)]
